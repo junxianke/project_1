@@ -4,3 +4,5 @@ this is the second line...
 test for new line
 
 test 1, 2, 3
+
+branch B add new one line
